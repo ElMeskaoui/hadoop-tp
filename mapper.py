@@ -11,6 +11,7 @@ file = sys.stdin
 next(file)
 def venteMapper(question_number):
     for line in file:
+        #fghjiokjjkjkjh
         # Split words by
         words = line.split(",")
         # Get region and profit
